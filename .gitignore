@@ -1,0 +1,6 @@
+### custom entry ###
+*.iml
+modules.xml
+.idea/*
+/target
+.idea/
